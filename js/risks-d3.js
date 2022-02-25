@@ -165,7 +165,7 @@ function buildRiskMap() {
                                d3.select(this).style('fill', '#fff');
                               })
                              .transition()
-                             .delay(250)
+                             .delay(100)
                              .duration(1000)
                              .style("fill", function(d) { 
                                  return("#fff");

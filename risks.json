@@ -1,7 +1,7 @@
 [
 	{ "id": 1,  "name": "first risk", "likelihood": 1, "impact": 1 },
-	{ "id": 2,  "name": "second risk", "likelihood": 1, "impact": 2 },
-	{ "id": 3,  "name": "third risk", "likelihood": 1, "impact": 3 },
+	{ "id": 2,  "name": "second risk", "likelihood": 1, "impact": 1 },
+	{ "id": 3,  "name": "third risk", "likelihood": 1, "impact": 1 },
 	{ "id": 4,  "name": "fourth risk", "likelihood": 1, "impact": 4 },
 	{ "id": 5,  "name": "fifth risk", "likelihood": 1, "impact": 5 },
 	{ "id": 6,  "name": "sixth risk", "likelihood": 2, "impact": 1 },
